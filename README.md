@@ -41,10 +41,10 @@ Ragtrade.bz is supported by a three-layer operational structure that connects st
 
 This layer defines the strategic direction of the system. It organizes priorities, resource intentions, and high-level coordination across the network.
 
-### Pre-Delivery Allocation (PDA)
+### Pre-Delivery Allocation 
 
 Positioned between strategy and execution, the PDA functions as an alignment layer.  
-Here, operational conditions are prepared and multiple viable pathways are organized before delivery decisions are finalized.
+Here, operational conditions are prepared and possible alignments are revealed before final decisions are made.
 
 ### Central Operations Center
 
