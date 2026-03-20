@@ -35,18 +35,6 @@ In this ecosystem, traditional subcontracting is replaced by **Peer Collaboratio
 
 The goal is to move beyond simple transactions and build supply chains through structured, narrative-driven interactions that result in tangible, real-world products.
 
----
-
-## ⚖️ License
-
-This project is shared under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
-
-* **Attribution**: Give credit to the original author.
-* **Non-Commercial**: Not for commercial purposes.
-* **ShareAlike**: Derivative works must use the same license.
-
----
-*This repository is a work in progress. Documentation is being updated as the architecture evolves.*
 >
 > ## License
 
